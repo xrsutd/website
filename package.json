@@ -1,0 +1,17 @@
+{
+  "name": "vrsutd.org",
+  "version": "0.1.0",
+  "main": "server.js",
+  "repository": "https://github.com/vrsutd/website.git",
+  "author": "Caleb Fung",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.2"
+  },
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
