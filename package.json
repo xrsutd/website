@@ -6,7 +6,7 @@
   "author": "Caleb Fung",
   "license": "MIT",
   "devDependencies": {
-    "express": "^4.16.2"
+    "express": "^4.17.3"
   },
   "dependencies": {
     "path": "^0.12.7"
